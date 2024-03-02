@@ -39,6 +39,6 @@
 	<a href="https://www.instagram.com/dontkillmeseptember/"><img alt="INST" src="https://img.shields.io/badge/-inst-160d10?style=for-the-badge&logo=instagram&logoColor=eba340" /></a>
 	<a href="https://open.spotify.com/user/uen4j6kuiuxgc7jf2td9ludfz"><img alt="Spotify" src="https://img.shields.io/badge/-Spotify-160d10?style=for-the-badge&logo=Spotify&logoColor=eba340" /></a>
 	<a href="https://leetcode.com/killmeseptember/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-160d10?style=for-the-badge&logo=LeetCode&logoColor=eba340" /></a>
-	<a href="https://steamcommunity.com/id/dontkillmeseptember/"><img alt="Steam" src="https://img.shields.io/badge/-Steam-160d10?style=for-the-badge&logo=Steam&logoColor=eba340" /></a>
+	<a href="https://wakatime.com/@HahIWillWin"><img alt="WakaTime" src="https://img.shields.io/badge/-WakaTime-160d10?style=for-the-badge&logo=WakaTime&logoColor=eba340" /></a>
 	<a href="https://www.codewars.com/users/dontkillmeseptember"><img alt="CodeWars" src="https://img.shields.io/badge/-codewars-160d10?style=for-the-badge&logo=codewars&logoColor=eba340" /></a>
 </div>
